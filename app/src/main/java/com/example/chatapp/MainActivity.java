@@ -170,3 +170,4 @@ public final class MainActivity extends AppCompatActivity {
         $this.adapter = var1;
     }
 }
+
