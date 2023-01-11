@@ -10,8 +10,7 @@ import androidx.recyclerview.widget.RecyclerView.ViewHolder;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import java.util.ArrayList;
-import kotlin.Metadata;
-import kotlin.jvm.internal.Intrinsics;
+import java.util.Iterator;
 import kotlin.text.StringsKt;
 import org.jetbrains.annotations.NotNull;
 
